@@ -1,0 +1,31 @@
+* I have attached an explanation for a few bugs that I have reported. Refer below.
+
+
+1. Incorrect Images for all the item cards
+When a user signing to the site, usually images are the first thing that a user will notice is because it's necessary to use or design an image that highlights the product that is being sold by the site. Users check images before reading the description. Therefore it's important to display correct images.
+
+2. Randomly Item Image changes when the user clicks on the card.
+In this scenario, there can be only one main image in the card. Therefore it cannot be changed. Changing the image when clicking on the card will confuse the user.
+
+3. Item Headings are incorrect.
+Headings are important. User Read heading to understand/figure out the product user wants. Therefore it should be valid and correct.
+Changing an Item heading isn't a major task unless the deployment isn't too complicated.
+
+4. Item descriptions are not in a proper format.
+Why a solution gives a description is to provide the item information to the user in order to get a good idea about the product. So displaying the description correctly and valid is important.
+Also Fixing descriptions with correct spellings, alignments, punctuation marks is a normal task. But correcting those issues on the description is needed to be fixed ASAP.
+
+5. Image change when clicking on the " Add to cart" button.
+As above mentioned images are important to display in a correct manner. Changing the image to a complete duvet one is a huge bug that needs to be fixed ASAP.
+
+6. Item sortings are not valid.
+Its ‘Name Z to A’  is unnecessary as it has already been sorted to ‘Name A to Z’. 
+
+7. The "Remove" button isn't working.
+This is a high-level issue. This is major functionality that needs to function properly.
+
+8. The "Add to cart" button is not working on the item image screen.
+Major functionality and needs to work properly. Or else the user will not be able to do the transaction.
+
+
+* Also I have written down a simple selenium script for a scenario.
